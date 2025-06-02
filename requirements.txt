@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+python-dotenv
+requests
+sentence-transformers
+faiss-cpu 
+fastapi
